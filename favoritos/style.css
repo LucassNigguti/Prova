@@ -1,5 +1,4 @@
 header {
-    max-width: auto;
     text-align: center;
     background-color: #0074d9;
     margin-top: auto;
@@ -17,8 +16,4 @@ h1 {
 
 footer {
     background-color: #333;
-}
-
-nav a:hover {
-   color: #333;
 }
